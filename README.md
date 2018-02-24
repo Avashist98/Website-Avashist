@@ -1,3 +1,3 @@
 # Website-Avashist
 Code to build my first website 
-hi who is going this is a test 
+The code will be used to build a website and mentian a website
